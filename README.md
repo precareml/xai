@@ -1,2 +1,1 @@
-### XAI evaluation models:
-##### 1- computational_evaluation.ipynb: Computational Evaluation of Model-Agnostic Explainable AI using Local Feature Importance
+### XAI Evaluator (see the article "Computational Evaluation of Model-Agnostic Explainable AI using Local Feature Importance")
